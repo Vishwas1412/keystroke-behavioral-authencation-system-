@@ -1,0 +1,2 @@
+# keystroke behavioral authencation system 
+ Keystroke Behavioral Authentication System is a type of biometric security that verifies a user's identity based on their unique typing patterns. Instead of relying solely on passwords, it analyzes factors like typing speed, key press duration, and the time between keystrokes. These patterns are difficult to replicate, making it a useful layer of security. This method is non-intrusive, runs in the background, and is often used alongside other authentication methods for enhanced protection.
